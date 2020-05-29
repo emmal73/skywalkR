@@ -18,6 +18,7 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 [![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
 [![CRAN status](https://www.r-pkg.org/badges/version/skywalkR)](https://CRAN.R-project.org/package=skywalkR)
+[![Travis build status](https://travis-ci.org/emmal73/skywalkR.svg?branch=master)](https://travis-ci.org/emmal73/skywalkR)
 <!-- badges: end -->
 
 The goal of skywalkR is to ...
