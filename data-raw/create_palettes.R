@@ -5,16 +5,17 @@ map <- list()
 
 sw_palettes <- list(
   anewhope = c("#0089c5", "#fec803", "#de4c95", "#2b3862", "#96599c", "#11100b", "#7d4836", "#df453e"),
-  solo = c("#f12700", "#205299", "#8432a0", "#a6a116", "#feb103", "#26a9fb", "#dd70a9", "#682800"),
   empirestrikesback = c("#d5cceb", "#726495", "#30273c"),
-  phantommenace = c("#ffd162", "#e65921", "#629d09"),
-  revengeofthesith = c("#e1b19b", "#a84a2e", "#6a2511"),
-  lastjedi = c("#e6e6e6", "#bb1515", "#5a1216"),
-  rogueone = c("#cde2d3", "#69a5af", "#153446"),
-  mandalorian = c("#fff39b", "#f4a37a", "#654c50"),
   returnofthejedi = c("#512b2e", "#a4442c", "#eec223", "#ecddb2", "#dfe9ef", "#a0cae2", "#038cd0", "#064683", "#1c1e3c"),
+  phantommenace = c("#ffd162", "#e65921", "#629d09"),
   attackoftheclones = c("#c3361b", "#d7935b", "#fbf9fc", "#2f6393", "#182841"),
-  riseofskywalker = c("#bb2225", "#fa3a4f", "#f9fffa", "#30c4ff", "#107add")
+  revengeofthesith = c("#e1b19b", "#a84a2e", "#6a2511"),
+  forceawakens = c("#be352d", "#d36830", "#f6e387", "#8b86bc", "#344692"),
+  lastjedi = c("#e6e6e6", "#bb1515", "#5a1216"),
+  riseofskywalker = c("#bb2225", "#fa3a4f", "#f9fffa", "#30c4ff", "#107add"),
+  rogueone = c("#cde2d3", "#69a5af", "#153446"),
+  solo = c("#f12700", "#205299", "#8432a0", "#a6a116", "#feb103", "#26a9fb", "#dd70a9", "#682800"),
+  mandalorian = c("#fff39b", "#f4a37a", "#654c50")
 )
 
 # Expand palette to accept contiuous scales or longer discrete scales
