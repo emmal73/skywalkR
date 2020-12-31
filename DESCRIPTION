@@ -2,15 +2,18 @@ Package: skywalkR
 Title: Star Wars color palettes
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "Emma",
+    c(person(given = "Emma",
            family = "Livingston",
            role = c("aut", "cre"),
-           email = "livingston.emma73@gmail.com",
-           comment = c(ORCID = "YOUR-ORCID-ID")),
+           email = "livingston.emma73@gmail.com"),
     person(given = "Clara",
            family = "Rosenberg",
            role = c("aut"),
-           email = "clarajrosenberg@gmail.com")
+           email = "clarajrosenberg@gmail.com"),
+    person(given = "Arielle",
+           family = "Dror",
+           role = c("aut"),
+           email = "arielle.dror@gmail.com"))
 Description: What the package does (one paragraph).
 License: GPL-3
 Suggests: 
